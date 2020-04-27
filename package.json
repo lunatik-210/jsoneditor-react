@@ -1,7 +1,7 @@
 {
-  "name": "jsoneditor-react",
+  "name": "@lunatik-210/jsoneditor-react",
   "version": "3.0.0",
-  "description": "React implementation of https://github.com/josdejong/jsoneditor",
+  "description": "React implementation of https://github.com/josdejong/jsoneditor based on https://github.com/vankop/jsoneditor-react",
   "main": "es",
   "module": "es",
   "files": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vankop/jsoneditor-react.git"
+    "url": "git+https://github.com/lunatik-210/jsoneditor-react.git"
   },
   "keywords": [
     "react",
